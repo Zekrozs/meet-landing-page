@@ -21,6 +21,8 @@ img{width: 100%;}
 /* ************* */
 /* colors */
 /* ************* */
+
+
 :root{
     
 
@@ -48,6 +50,8 @@ img{width: 100%;}
  /* ************* */  
 /* logo */
 /* ************* */
+
+
 .logo{padding-block: 3em 4em;
 max-width: 30%;
 }
@@ -311,7 +315,7 @@ width: 100%;
 
 .desktop-img{display:block}
 
-.top-page img{max-width: 24.6rem;}
+.top-page img{max-width: 28rem;}
 
 .top-page{flex-direction: row; justify-content: space-between; align-items: center;
  width: 90vw; flex: 1 1 auto;}
