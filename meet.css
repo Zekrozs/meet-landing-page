@@ -53,7 +53,7 @@ img{width: 100%;}
 
 
 .logo{padding-block: 3em 4em;
-width: 30%;
+max-width: 30%;
 }
 
 
