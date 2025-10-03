@@ -171,8 +171,9 @@ footer{background-image:url(assets/mobile/image-footer.jpg), linear-gradient(
 background-repeat: no-repeat;
 background-size: 100vw;   
 width: 100%;
+height: auto; min-height: 21rem;
 
-   
+display: flex;justify-content: center; align-items: center;
 }
 
 
@@ -303,7 +304,6 @@ width: 100%;
 /* ************* */
  /* media desktop */
 /* ************* */
-
 
 
 
