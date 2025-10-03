@@ -62,7 +62,7 @@ width: 30%;
 /* top-part */
 /* ************* */
 
-.top-page{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+.top-page{display: flex; flex-direction: column; justify-content: center; align-items: center; object-fit: cover;}
 
 
 /* hero-images */
