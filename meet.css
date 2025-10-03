@@ -53,7 +53,7 @@ img{width: 100%;}
 
 
 .logo{padding-block: 3em 4em;
-max-width: 30%;
+width: 30%;
 }
 
 
@@ -171,6 +171,7 @@ footer{background-image:url(assets/mobile/image-footer.jpg), linear-gradient(
 background-repeat: no-repeat;
 background-size: 100vw;   
 width: 100%;
+
    
 }
 
@@ -318,7 +319,7 @@ width: 100%;
 .top-page img{max-width: 28rem;}
 
 .top-page{flex-direction: row; justify-content: space-between; align-items: center;
- width: 97vw; flex: 1 1 auto;}
+ width: 97vw; gap: 1rem;}
 
 
 .hero-right{order: 3;}
