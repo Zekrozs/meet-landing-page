@@ -318,7 +318,7 @@ width: 100%;
 .top-page img{max-width: 28rem;}
 
 .top-page{flex-direction: row; justify-content: space-between; align-items: center;
- width: 90vw; flex: 1 1 auto;}
+ width: 97vw; flex: 1 1 auto;}
 
 
 .hero-right{order: 3;}
