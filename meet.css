@@ -62,12 +62,13 @@ max-width: 30%;
 /* top-part */
 /* ************* */
 
-.top-page{display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;}
+.top-page{display: flex; flex-direction: column; justify-content: center; align-items: center; overflow-x: hidden;
+object-fit: cover;}
 
 
 /* hero-images */
 
-.top-page img{width: 117%; max-width: 60rem; }
+.top-page img{width: 117%; max-width: 60rem;  }
 
 /* desktop image*/
 
